@@ -99,4 +99,4 @@ In accordance with the Chrome Web Store Developer Program Policies:
 
 If you have any questions about this Privacy Policy or wish to exercise your data rights, please contact us at:
 
-**Email:** jding.developer@gmail.com
+**Email:** ding.developer1@gmail.com
